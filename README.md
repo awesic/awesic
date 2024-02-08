@@ -1,16 +1,16 @@
 ## Hi, I'm Gulzada!👾
 
-<a href="https://t.me/awesic"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&logo=telegram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/awesic"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&logo=linkedin&logoColor=white"></a>
+<a href="https://t.me/awesic"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/awesic"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-%23000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-%23111?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-111?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-111?&logo=postgresql)
+![C](https://img.shields.io/badge/-C-111?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-111?&logo=TypeScript)
 
 ### Technologies
 
