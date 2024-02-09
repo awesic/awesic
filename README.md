@@ -33,6 +33,10 @@
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map) -->
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=awesic&theme=dark&show_icons=true&bg_color=1a1a1a)
+![Stats](https://github-readme-stats.vercel.app/api?username=awesic&theme=dark&show_icons=true&bg_color=1a1a1a&icons_color32584b)
 
 <br/>
+
+<p><a href="http://hits.dwyl.com/awesic/awesic/awesic.svg?style=flat-square"><img src="https://hits.dwyl.com/awesic/awesic/awesic.svg?style=flat-square" alt="HitCount"></a></p>
+
+### Projects ⬇️
