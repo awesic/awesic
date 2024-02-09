@@ -24,7 +24,7 @@
 
 <br/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=awesic&theme=dark&show_icons=true&bg_color=1a1a1a&icons_color32584b)
+![Stats](https://github-readme-stats.vercel.app/api?username=awesic&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=8bbdac)
 
 <br/>
 
