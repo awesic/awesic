@@ -3,7 +3,7 @@
 <a href="https://t.me/awesic"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/awesic"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### Languages
+### Languages 🗣️
 
 ![Python](https://img.shields.io/badge/-Python-%23111?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-111?&logo=c%2b%2b&logoColor=00599C)
@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-111?&logo=TypeScript)
 
-### Technologies
+### Technologies 📟
 
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
@@ -22,15 +22,6 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 
-<!-- ### Full Stack Projects -->
-
-<!-- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map) -->
 <br/>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=awesic&theme=dark&show_icons=true&bg_color=1a1a1a&icons_color32584b)
