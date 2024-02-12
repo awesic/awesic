@@ -19,7 +19,7 @@
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-React-000?&logo=React)[](https://github.com/awesic/VKR-project)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 
 <br/>
