@@ -14,9 +14,9 @@
 
 ### Technologies 📟
 
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+<a href="https://github.com/awesic/VKR-project"><img src="https://img.shields.io/badge/-Django-000?&logo=Django"></a>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
-![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
+<a href="https://github.com/awesic/Calculator_v2"><img src="https://img.shields.io/badge/-Qt-000?&logo=Qt"></a>
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 <a href="https://github.com/awesic/VKR-project"><img src="https://img.shields.io/badge/-React-000?&logo=React"></a>
