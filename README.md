@@ -7,7 +7,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-%23111?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-111?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-111?&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-111?&logo=sqlite)
 ![C](https://img.shields.io/badge/-C-111?&logo=C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-111?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-111?&logo=TypeScript)
@@ -20,7 +20,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 <a href="https://github.com/awesic/VKR-project"><img src="https://img.shields.io/badge/-React-000?&logo=React"></a>
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
 
 <br/>
 
@@ -28,6 +28,6 @@
 
 <br/>
 
-<p><a href="http://hits.dwyl.com/awesic/awesic/awesic.svg?style=flat-square"><img src="https://hits.dwyl.com/awesic/awesic/awesic.svg?style=flat-square" alt="HitCount"></a></p>
+<p><a href="http://hits.dwyl.com/awesic/awesic.svg?style=flat-square"><img src="https://hits.dwyl.com/awesic/awesic.svg?style=flat-square" alt="HitCount"></a></p>
 
 ### Projects ⬇️
